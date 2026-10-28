@@ -1,0 +1,6 @@
+{
+  "name": "Nối cơ hội - Đổi cuộc đời",
+  "description": "Nền tảng kết nối việc làm minh bạch, không qua trung gian cho sinh viên mới ra trường và mọi lứa tuổi, tích hợp hỗ trợ kỹ năng, cẩm nang CV và phòng chống lừa đảo tuyển dụng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
